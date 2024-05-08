@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JonathanDev22
-- 👀 I’m interested in ... Java , Python , SQL , FLUTTER
-- 🌱 I’m currently learning ... Java , Git , SQL FLUTTER
-- 💞️ I’m looking to collaborate on ... Zendyq
+- 👀 I’m interested in ... Java , Python , SQL , FLUTTER 
+- 🌱 I’m currently learning ... Java , Git , SQL, Visual Basic, Flutter 
 - 📫 How to reach me ... jonathancrz07@gmail.com
 
 <!---
