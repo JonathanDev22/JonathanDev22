@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathandev22&label=Profile%20views&color=0e75b6&style=flat" alt="jonathandev22" /> </p>
 
-- 🔭 En estos momentos me encuentro trabajando en una aplicación móvil con el lenguaje de programación de Dart y el framework de Flutter **MUEVET**
+- 🔭 En estos momentos me encuentro trabajando en Swarmingts del grupo Zelenza desarrollando la integración del SDK de DJI en una aplicación Android con Kotlin a su vez en los ratos libres trabajo en una aplicación móvil con el lenguaje de programación de Dart y el framework de Flutter **MUEVET**
 
-- 🌱 ahora mismo me encuentro estudiando un poco del framework de Sprintboot ya que veo que es algo que está en todas las candidaturas a las que aplico de manera autodidacta iré poco a poco aprendiendo de este maravilloso framework **SPRINGBOOT.**
+- 🌱 me encuentro estudiando un poco del framework de Sprintboot ya que veo que es algo que está en todas las candidaturas a las que aplico. De manera autodidacta iré aprendiendo de este maravilloso framework **SPRINGBOOT.**
 
-- 👯 Ahora mismo somos un equipo de 3 programadores los que estamos trabajando en la apk entre nosotros nos organizamos con **Metodología Ágil**, tenemos nuestras reuniones y nuestro reparto de funcionalidades
+- 👯 Ahora mismo me encuentro en un equipo de 3 programadores los que estamos trabajando en nuestra aplicación Muevet entre nosotros nos organizamos con **Metodología Ágil**, tenemos nuestras reuniones y nuestro reparto de funcionalidades
 
-- 🤝 Aunque me encuentre programando en un equipo de amigos estoy buscando trabajo activamente para poder dedicarme de lleno a la programación ya que es a lo que me quiero dedicar de lleno
+- 🤝 Aunque me encuentre programando en un equipo de desarrolladores siempre estoy dispuesto a tener una agradable conversación con alguien que busque un desarrollador para poder dedicarme de lleno a la programación ya que es a lo que me quiero dedicar.
 
-- 💬 si tienes alguna duda sobre mi puedes ponerte en contacto conmigo en la información que te dejare mas abajo , de los lenguajes de programación que utilo son: **Java, dart, html css y js son los lenguajes con los que programo**
+- 💬 si tienes alguna duda sobre mi puedes ponerte en contacto conmigo en la información que te dejare mas abajo , de los lenguajes de programación que utilizo son: **Java, Kotlin , Dart , SQL y PostgreSQL**
 
-- Pero no me importaría aprender nada de lo que sea necesario aprender 
+- Pero siempre estoy abierto ampliar mis conocimientos en nuevos lenguajes y frameworks
 
 - 📫 aquí te dejo mi correo **Jonathancrz07@gmail.com**
 
