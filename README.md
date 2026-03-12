@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathandev22&label=Profile%20views&color=0e75b6&style=flat" alt="jonathandev22" /> </p>
 
-- 🔭 En estos momentos me encuentro trabajando en Swarmingts del grupo Zelenza desarrollando la integración del SDK de DJI en una aplicación Android con Kotlin a su vez en los ratos libres trabajo en una aplicación móvil con el lenguaje de programación de Dart y el framework de Flutter **MUEVET**
+- 🔭 En estos momentos me encuentro trabajando en Swarmingts del grupo Zelenza desarrollando la integración de software embebido en aeronaves no tripuladas como : UAV UXV UGV , Para ello utilizo el lenguaje de Java con el Framework de SPRINGBOOT en el que se esta realizando una API RESTfull
 
-- 🌱 me encuentro estudiando un poco del framework de Sprintboot ya que veo que es algo que está en todas las candidaturas a las que aplico. De manera autodidacta iré aprendiendo de este maravilloso framework **SPRINGBOOT**.
-- 
-- 👯 Ahora mismo somos un equipo de 3 programadores los que estamos trabajando en la apk entre nosotros nos organizamos con **Metodología Ágil**, tenemos nuestras reuniones y nuestro reparto de funcionalidades
+- 🌱 me encuentro en un momento de aprendizaje del framework de SPRINGBOOT de manera mas avanzada para el uso todo su potencial como : spring-security , spring-batch , y todo lo que esta dentro de su framework
+  
+- 👯 Ahora mismo trabajo con **Metodología Ágil**, tenemos nuestras reuniones y nuestro reparto de funcionalidades
 
 - 🤝 Aunque me encuentre programando en un equipo de desarrolladores siempre estoy dispuesto a tener una agradable conversación con alguien que busque un desarrollador para poder dedicarme de lleno a la programación ya que es a lo que me quiero dedicar.
 
-- 💬 si tienes alguna duda sobre mi puedes ponerte en contacto conmigo en la información que te dejare mas abajo , de los lenguajes de programación que utilizo son: **Java, Kotlin , Dart , SQL y PostgreSQL**
+- 💬 si tienes alguna duda sobre mi, puedes ponerte en contacto conmigo en la información que te dejare mas abajo , de los lenguajes de programación que utilizo son: **Java, Kotlin , Dart , SQL y PostgreSQL**
 
 Pero siempre estoy abierto ampliar mis conocimientos en nuevos lenguajes y frameworks
 
